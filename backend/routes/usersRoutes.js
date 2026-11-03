@@ -6,7 +6,7 @@ const { crearUser, loginUser, datosUser } = require('../controllers/usersControl
 
 
 router.post('/login', loginUser)
-router.post('/register', crearUser)
+router.post('/', crearUser)
 
 
 router.get('/datos', protect, datosUser)
