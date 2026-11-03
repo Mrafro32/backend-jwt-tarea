@@ -11,7 +11,7 @@ Backend desarrollado en Node.js + Express con autenticación JWT para la gestió
 ## Configuración del Entorno
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Mrafro32/backend-jwt-tarea.git
    ```
 2. Instalar las dependencias del proyecto:
    ```bash
